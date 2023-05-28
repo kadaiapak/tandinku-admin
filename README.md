@@ -2,6 +2,35 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Package
+package yang digunakan disini yaitu:
+
+1. react-icon "npm i react-icons"
+
+2. react-router-dom "npm i react-router-dom"
+
+3. antd "npm i antd"
+
+### Bersihkan boiler plate
+1. Hapus log.svg, setupTests.js, reportWebVitasl.js, App.test.js
+
+2. Hapus isi app.css  
+
+### Fonts
+Google font menggunakan google fonts roboto
+
+### Menggunakan default layout dari ant design
+Cari layout di dokumentasi ant design dan paste di component main layout
+
+### Membuat route di index.js
+
+### Membuat halaman login
+Membuat halaman login dan componen CustomInput yang akan digunakan di halaman login, component CustomInput dibuat dengan menggunakan ant design
+
+### Mengcustom MainLayout
+melakukan perubahan di main layout, dengan menambahkan icon dan menu yang ada pada sidebar di dashboard sesuai dengan menu dan logo yang kita inginkan
+
+
 ## Available Scripts
 
 In the project directory, you can run:
