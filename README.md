@@ -30,7 +30,6 @@ Membuat halaman login dan componen CustomInput yang akan digunakan di halaman lo
 ### Mengcustom MainLayout
 melakukan perubahan di main layout, dengan menambahkan icon dan menu yang ada pada sidebar di dashboard sesuai dengan menu dan logo yang kita inginkan
 
-
 ## Available Scripts
 
 In the project directory, you can run:
